@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi! I'm Mateus V. Gasparino
 
+- 🔭 I’m currently working on autonomous navigation for unstructured outdoor environments
+- 📫 How to reach me: https://twitter.com/GasparinoUIUC
 <!--
 **matval/matval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
